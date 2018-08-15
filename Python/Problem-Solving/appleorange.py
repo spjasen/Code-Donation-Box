@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/apple-and-orange/problem
+
 distance = list(map(int, input().split()))
 aoLoc = list(map(int, input().split()))
 quant = list(map(int, input().split()))
