@@ -1,12 +1,10 @@
-/*
-Problem statement:
-https://www.hackerrank.com/challenges/circular-array-rotation/problem
+#Problem statement:
+#https://www.hackerrank.com/challenges/circular-array-rotation/problem
 
-contributed by:
-github.com/vinitkadam
+# contributed by:
+# github.com/vinitkadam
 
-python 3 code:
-*/
+# python 3 code:
 
 #!/bin/python3
 
