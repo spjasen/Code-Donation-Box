@@ -1,3 +1,4 @@
+//find if no is power of 2 or not
 import java.util.Scanner;
 
 public class powerOf2 {
